@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "610166386615",
+    "project_id": "gen-lang-client-0652726471",
+    "storage_bucket": "gen-lang-client-0652726471.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610166386615:android:f0a56b92169ee5814cc232",
+        "android_client_info": {
+          "package_name": "com.aistudio.mandatex.xkpqzr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGmqqmUTEYl7Tq7RoK5RRXIr9hWZfxAKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

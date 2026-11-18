@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MandateX</string>
+    <string name="app_subtitle">AutoPay Shield &amp; Chanakya AI</string>
+    <string name="nav_home">MandateX</string>
+    <string name="nav_loans">Loans</string>
+    <string name="nav_ai">Chanakya</string>
+    <string name="nav_cards">Cards</string>
+    <string name="nav_save">Save</string>
+    <string name="ask_chanakya_ai">Ask Chanakya AI</string>
+    <string name="simulate_bank_sms">Simulate Bank SMS</string>
+    <string name="export_statement">Export Statement</string>
+    <string name="trial_exit_now">Exit Now</string>
+    <string name="duplicate_charge_detected">Duplicate Charge Detected!</string>
+    <string name="notification_listener_label">MandateX UPI Auto-Tracker</string>
+    <string name="gmail_oauth_client_id" translatable="false">610166386615-vt9cedehjou4ba684lo0v9ia5vk0qut7.apps.googleusercontent.com</string>
+</resources>

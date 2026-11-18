@@ -1,0 +1,6 @@
+{
+  "name": "MandateX",
+  "description": "Smart UPI AutoPay, Expense, Card & EMI Tracker with Trial Exit Shield and Chanakya AI Financial Assistant",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
